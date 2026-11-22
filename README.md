@@ -9,9 +9,3 @@ Este repositorio contiene un algoritmo funcional desarrollado en **PSeInt** (`ca
 * **Autenticación:** Validación de acceso mediante clave numérica (`12345`).
 * **Consulta de saldo:** Visualización del monto disponible en cuenta.
 * **Depósitos y retiros:** Operaciones matemáticas con validación de fondos suficientes.
-
-## Equipo de Desarrollo
-* **[Stalin Jair Leon Camino]** 
-* **[Carlos Alberto Mena Ibarra]** 
-* **[Alejandro Jahir Pincay Vargas]**
-* **[Miguel Vicente Espinoza Granizo]**
