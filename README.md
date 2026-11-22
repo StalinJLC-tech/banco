@@ -1,4 +1,4 @@
-# Simulador de Cajero Automático (ATM) - Examen Práctico 2
+# Simulador de Cajero Automático (ATM) - Componente Practico
 
 Proyecto desarrollado para la asignatura de **Introducción a la Ingeniería de Software**, enfocado en aplicar los fundamentos del control de versiones distribuido mediante **Git y GitHub**.
 
@@ -11,7 +11,7 @@ Este repositorio contiene un algoritmo funcional desarrollado en **PSeInt** (`ca
 * **Depósitos y retiros:** Operaciones matemáticas con validación de fondos suficientes.
 
 ## Equipo de Desarrollo
-* **[Stalin Jair Leon Camino]:** 
-* **[Carlos Alberto Mena Ibarra]:** 
-* **[Alejandro Jahir Pincay Vargas]:**
-* **[Miguel Vicente Espinoza Granizo]:**
+* **[Stalin Jair Leon Camino]** 
+* **[Carlos Alberto Mena Ibarra]** 
+* **[Alejandro Jahir Pincay Vargas]**
+* **[Miguel Vicente Espinoza Granizo]**
