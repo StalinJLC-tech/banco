@@ -13,3 +13,24 @@ Algoritmo Sistema_Bancario
     saldo <- 0
     totalDepositos <- 0
     totalTransferencias <- 0
+	
+	// Seguridad: maximo tres intentos
+    Escribir "================================"
+    Escribir "       BIENVENIDO AL BANCO"
+    Escribir "================================"
+	
+    Mientras intentos < 3 Y acceso = Falso Hacer
+		
+        Escribir "Ingrese su PIN de seguridad:"
+        Leer pin
+		
+        Si pin = 12345 Entonces
+            acceso <- Verdadero
+            Escribir "Acceso autorizado."
+        SiNo
+            intentos <- intentos + 1
+            Escribir "PIN incorrecto."
+            Escribir "Intentos restantes: ", 3 - intentos
+        FinSi
+		
+    FinMientras
