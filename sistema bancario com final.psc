@@ -24,7 +24,7 @@ Algoritmo Sistema_Bancario
         Escribir "Ingrese su PIN de seguridad:"
         Leer pin
 		
-        Si pin = 12345 Entonces
+        Si pin = 123456 Entonces
             acceso <- Verdadero
             Escribir "Acceso autorizado."
         SiNo
